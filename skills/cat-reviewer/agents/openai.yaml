@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cat Reviewer"
+  short_description: "Project-only reviewer for this Tomato novel manuscript"
+  default_prompt: "Use $cat-reviewer to review this book's latest manuscript chapter for logic, setting, style, payoff, and character depth."
